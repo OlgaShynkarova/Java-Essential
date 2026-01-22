@@ -1,0 +1,4 @@
+Hello, World!!!
+I like Java!!!
+256
+14
